@@ -29,6 +29,8 @@ body {
  border: 200px;
  border-radius: 40px;
  margin-top: 250px;
+ margin-bottom: 250px;
+ 
 
 
 }
@@ -38,6 +40,7 @@ p{
 }
 
 img{
+    margin: 25px;
     height: 75px;
-    border-radius: 15px;
+    border-radius: 360px;
 }
